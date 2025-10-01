@@ -1,7 +1,7 @@
 <h1 align="center">Amirali Vakili</h1>
 
 <p align="center">
-  Computer Engineering Student | Deep Learning | Computer Vision and Reinforcment Learning 
+  Computer Engineering Student | Deep Learning | Computer Vision | Robotics & Reinforcment Learning 
 </p>
 
 ---
