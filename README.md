@@ -1,21 +1,21 @@
 <h1 align="center">Amirali Vakili</h1>
 
 <p align="center">
-  Computer Engineering Student | Deep Learning | Computer Vision & NLP
+  Computer Engineering Student | Deep Learning | Computer Vision and Reinforcment Learning 
 </p>
 
 ---
 
 ## About Me
-I am a Computer Engineering student passionate about **deep learning**, **computer vision**, **reinforcement learning**, **generative models**, and **systems programming**.  
-My work spans from **research projects** like diffusion policies and VAEs to **practical applications** in NLP, compilers, and microprocessor systems.  
+I am a Computer Engineering student passionate about **deep learning**, **computer vision**, **deep reinforcement learning** and **generative models**
+My work spans from **research projects** like diffusion policies and applyinhg deep learning models for solving problems related to humans health.  
 
 ---
 
 ## Projects
 
 <details>
-<summary><b>Machine Learning & Deep Learning</b></summary>
+<summary><b>Computer Vision & Deep Learning</b></summary>
 
 - [VAE-MNIST-Gen](https://github.com/simbovk/VAE-MNIST-Gen) — Variational Autoencoder for digit generation (MNIST)  
 - [FaceKD](https://github.com/simbovk/FaceKD) — Face recognition using knowledge distillation  
@@ -24,7 +24,7 @@ My work spans from **research projects** like diffusion policies and VAEs to **p
 </details>
 
 <details>
-<summary><b>Reinforcement Learning</b></summary>
+<summary><b>Deep Reinforcement Learning</b></summary>
 
 - [Diff-Stock-BSc-Thesis-Project](https://github.com/simbovk/Diff-Stock-BSc-Thesis-Project) — Stock trading agent using **Deep RL + Diffusion Policy**  
 
@@ -69,15 +69,14 @@ My work spans from **research projects** like diffusion policies and VAEs to **p
 
 ## Skills
 - **Languages:** Python, C++, Java, Dart  
-- **Frameworks & Tools:** PyTorch, NumPy, Pandas, Jupyter, Flutter  
-- **Focus Areas:** Deep Learning (VAEs, U-Nets, Diffusion, Knowledge Distillation), Reinforcement Learning, NLP  
+- **Frameworks & Tools:** PyTorch, NumPy, Pandas, Jupyter, Flutter, Keras & Tensorflow  
+- **Focus Areas:** Deep Learning & Computer Vision (VAEs, U-Nets, Diffusion, Knowledge Distillation & ...), Reinforcement Learning, NLP  
 - **Systems:** Compiler design, microprocessors, algorithms, data structures  
 
 ---
 
 ## Contact
 - Email: [amirv1382@gmail.com](mailto:amirv1382@gmail.com)  
-- Location: Tehran, Iran  
 - Open to collaborations, internships, and research opportunities  
 
 ---
