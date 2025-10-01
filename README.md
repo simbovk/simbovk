@@ -30,6 +30,17 @@ My work spans from **research projects** like diffusion policies and applyinhg d
 
 </details>
 
+
+---
+
+<details>
+<summary><b>Robotics</b></summary>
+
+- [TurtleBot3-Burger-Localization-Navigation](https://github.com/simbovk/TurtleBot3-Burger-Localization-Navigation) — Mapping, localization, and navigation with door detection using Webots  
+
+</details>
+
+
 <details>
 <summary><b>Natural Language Processing</b></summary>
 
