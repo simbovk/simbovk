@@ -7,7 +7,7 @@
 ---
 
 ## About Me
-I am a Computer Engineering student passionate about **deep learning**, **computer vision**, **deep reinforcement learning** and **generative models**
+I am a Computer Engineering student passionate about **deep learning**, **computer vision**, **deep reinforcement learning** and **generative models**, 
 My work spans from **research projects** like diffusion policies and applyinhg deep learning models for solving problems related to humans health.  
 
 ---
