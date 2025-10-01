@@ -31,8 +31,6 @@ My work spans from **research projects** like diffusion policies and applyinhg d
 </details>
 
 
----
-
 <details>
 <summary><b>Robotics</b></summary>
 
