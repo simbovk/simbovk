@@ -38,14 +38,13 @@ My work spans from **research projects** like diffusion policies and applyinhg d
 
 </details>
 
-
 <details>
 <summary><b>Natural Language Processing</b></summary>
 
 - [Genre-Prediction-NLP](https://github.com/simbovk/Genre-Prediction-NLP) — Movie genre classification from text descriptions  
+- [Emotion-Classification-BERT](https://github.com/simbovk/Emotion-Multi-Label-Classification-BERT) — Emotion recognition using **BERT** and Hugging Face Transformers, with balanced preprocessing, fine-tuning, and detailed evaluation (confusion matrices + per-class F1).  
 
 </details>
-
 <details>
 <summary><b>Systems, Compilers & Algorithms</b></summary>
 
