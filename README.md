@@ -79,8 +79,8 @@ My work spans from **research projects** like diffusion policies and applyinhg d
 ## Skills
 - **Languages:** Python, C++, Java, Dart  
 - **Frameworks & Tools:** PyTorch, NumPy, Pandas, Jupyter, Flutter, Keras & Tensorflow  
-- **Focus Areas:** Deep Learning & Computer Vision (VAEs, U-Nets, Diffusion, Knowledge Distillation & ...), Reinforcement Learning, NLP  
-- **Systems:** Compiler design, microprocessors, algorithms, data structures  
+- **Focus Areas:** Deep Learning & Computer Vision,GenAI, Reinforcement Learning, NLP  
+- **others:** Softeware development & Compiler design, microprocessors, algorithms, data structures  
 
 ---
 
