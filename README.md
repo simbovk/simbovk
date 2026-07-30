@@ -85,7 +85,7 @@ My work spans from **research projects** like diffusion policies and applyinhg d
 ---
 
 ## Contact
-- Email: [amirv1382@gmail.com](mailto:vakiliamirali03@gmail.com)  
+- Email: [vakiliamirali03@gmail.com](mailto:vakiliamirali03@gmail.com)  
 - Open to collaborations, internships, and research opportunities  
 
 ---
