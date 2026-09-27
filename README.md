@@ -66,16 +66,6 @@
 
 </details>
 
----
-
-## Skills
-- **Languages:** Python, C++, Java, Dart  
-- **Frameworks & Tools:** PyTorch, NumPy, Pandas, Jupyter, Flutter, Keras & Tensorflow  
-- **Focus Areas:** Deep Learning & Computer Vision,GenAI, Reinforcement Learning, NLP  
-- **others:** Softeware development & Compiler design, microprocessors, algorithms, data structures  
-
----
-
 ## Contact
 - Email: [vakiliamirali03@gmail.com](mailto:vakiliamirali03@gmail.com)  
 - Open to collaborations, internships, and research opportunities  
