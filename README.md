@@ -4,14 +4,6 @@
   Computer Engineer & Researcher| Deep Learning | Robotics & Reinforcement Learning | AI for Healthcare
 </p>
 
----
-
-## About Me
-I am a Computer Engineering student passionate about **deep learning**, **computer vision**, **generative models**, **robotics and deep reinforcement learning**, 
-My work spans from **research projects** like diffusion policies and applyinhg deep learning models for solving problems related to humans health.  
-
----
-
 ## Projects
 
 <details>
